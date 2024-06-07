@@ -11,15 +11,17 @@ Este es un proyecto de ejemplo de una tienda online desarrollado con el framewor
 - 🛠️ **Pestaña de servicios**: Información sobre los servicios que ofrece la tienda.
 - 🏪 **Tienda online**: Listado y detalles de productos disponibles para la venta.
 
+## 🛠️ Tecnologías Utilizadas
+
+- **Lenguaje**: Python 3.11 🐍
+- **Framework**: Django 4.2 🌐
+- **Base de datos**: SQLite3 🗄️
+- **Frontend**: HTML5, CSS3 🎨
+- **Control de versiones**: Git 📁
+
 ## 📋 Requisitos
 
 - 🐍 Python 3.11
 - 🌐 Django 4.2
 - 🗄️ SQLite3 (por defecto) o cualquier otro sistema de bases de datos compatible con Django
 
-## 🛠️ Instalación
-
-1. Clona el repositorio:
-   ```sh
-   git clone https://github.com/GonxG0/Tienda-Online.git
-   cd Tienda-Online
