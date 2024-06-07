@@ -28,6 +28,7 @@ This is a sample project of an online store developed using the Django framework
 ## Configure Email Sending:
 
 If you wish to enable email sending from your application, make sure to configure the following variables correctly in the `settings.py` file of your `ProyectoWeb`:
-
+```
 EMAIL_HOST_USER = 'your_email@example.com'
 EMAIL_HOST_PASSWORD = 'your_email_password'
+```
