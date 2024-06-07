@@ -1,0 +1,18 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Campatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    Hola {{nombreusuario}}<br/>
+    N° de Pedido: {{pedido.id}}<br/>
+    Email del usuario: {{emailusuario}}<br/>
+
+    {% for key in lineas_pedido %}
+        {{key}}<br/>
+    {% endfor %}
+</body>
+</html>
